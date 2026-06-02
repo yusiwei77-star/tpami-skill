@@ -61,6 +61,16 @@ Use $tpami to audit this manuscript for IEEE/TPAMI compliance, prior-version dis
 - `references/writing-and-positioning.md`：TPAMI 风格写作、贡献定位、会议扩展稿、实验组织和文献调研启发式规则。
 - `references/review-and-revision.md`：审稿 checklist、常见拒稿风险、severity labels、response letter 写法。
 
+## 参考来源
+
+本 skill 的 TPAMI/IEEE 范围、格式、伦理和提交风险提示主要参考以下官方页面。正式投稿前应重新核对这些页面，因为期刊政策、模板、页数限制和提交流程可能变化。
+
+- [TPAMI Call for Papers](https://www.computer.org/digital-library/journals/tp/cfp-ieee-pattern-analysis-machine-intelligence)
+- [IEEE Computer Society Author Resources](https://www.computer.org/publications/author-resources)
+- [IEEE Editorial Style Manual for Authors](https://journals.ieeeauthorcenter.ieee.org/wp-content/uploads/sites/7/IEEE-Editorial-Style-Manual-for-Authors.pdf)
+- [IEEE Submission and Peer Review Policies](https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/submission-and-peer-review-policies/)
+- [IEEE Article Templates](https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/authoring-tools-and-templates/tools-for-ieee-authors/ieee-article-templates/)
+
 ## 重要说明
 
 官方 IEEE/TPAMI 规则可能变化。用于正式投稿、AI 披露、页数限制、appendix/supplement、重复投稿或版权许可判断时，应在提交前重新核对 IEEE 和 TPAMI 官方页面。本 skill 只提供写作、审阅和风险检查辅助，不替代作者对事实、署名、权限、伦理和最终提交决定的责任。
