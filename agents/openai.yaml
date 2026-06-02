@@ -1,0 +1,4 @@
+interface:
+  display_name: "TPAMI Paper Assistant"
+  short_description: "Research, write, and review TPAMI-style papers."
+  default_prompt: "Use $tpami to review this manuscript for TPAMI fit, style, evidence, and submission risks."
